@@ -3,5 +3,5 @@
 void main()
 {
 
-	printf("This is mainnn function");
+	printf("This is mainnn functionn");
 }
